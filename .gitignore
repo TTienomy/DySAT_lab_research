@@ -15,3 +15,6 @@ checkpoints/
 *.bin
 *.h5
 .vscode/
+
+# ignore data outputs
+data/
